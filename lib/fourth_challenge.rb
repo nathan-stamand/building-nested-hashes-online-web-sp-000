@@ -14,7 +14,7 @@ def fourth_challenge
           name: "Mercutio",
           age: "18",
           attitude: "hot-headed"
-        }}
+        }
       ]
    }, 
    :capulet => {
@@ -31,7 +31,7 @@ def fourth_challenge
           name: "Nurse",
           age: "30",
           attitude: "worried"
-        }}
+        }
       ]
    }
 }
