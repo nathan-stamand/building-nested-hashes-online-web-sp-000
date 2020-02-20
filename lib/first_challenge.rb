@@ -6,11 +6,11 @@ def first_challenge
          age: "53"
        },
        matriarch: {
-         name: "Lady Montague"
+         name: "Lady Montague",
          age: "54"
        },
        hero: {
-         name: "Romeo"
+         name: "Romeo",
          age: "15"
        },
        hero_friends: [
@@ -36,7 +36,7 @@ def first_challenge
            age: "30"
          },
          heroine: {
-           name: "Juliet"
+           name: "Juliet",
            age: "15"
          },
          heroine_friends: [
